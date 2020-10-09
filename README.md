@@ -8,3 +8,5 @@
 ### Discords
 - [[🌎] 3d4h Discord](https://3d4h.world/discord)
 - [[🎥] YT Discord](https://discord.com/invite/BpmTS3R)
+
+![@trashcanolives](https://github-readme-stats.vercel.app/api?username=trashcanolives&count_private=true&show_icons=true&theme=cobalt)
