@@ -1,4 +1,4 @@
-## @trashcanolives#7768
+![@trashcanolives#7768](https://github-readme-stats.vercel.app/api?username=trashcanolives&count_private=true&show_icons=true&theme=cobalt)
 #### *Minecraft player, developer, server owner ;)*
 ### Socials
 - [[💬] Twitter](https://twitter.com/trashcanolives)
@@ -9,4 +9,4 @@
 - [[🌎] 3d4h Discord](https://3d4h.world/discord)
 - [[🎥] YT Discord](https://discord.com/invite/BpmTS3R)
 
-![@trashcanolives](https://github-readme-stats.vercel.app/api?username=trashcanolives&count_private=true&show_icons=true&theme=cobalt)
+
