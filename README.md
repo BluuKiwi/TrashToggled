@@ -1,4 +1,4 @@
-## @TrashToggled
+## @TrashToggled 🌺
 ![@TrashToggled#7768](https://github-readme-stats.vercel.app/api?username=TrashToggled&count_private=true&show_icons=true&theme=cobalt)
 #### *Minecraft player, developer, server owner ;)*
 ### Socials
